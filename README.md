@@ -13,3 +13,5 @@
 - Skill 3: I want to expand my knowledge about this topic for learning my mistakes 
 ## My Favourite Technology 
 A laptop is the go-to device. It provides the freedom to study, write code, and complete work from anywhere.
+## Reflection
+Git is useful because if we accidentally remove or delete our previous commits can be reviewed and locate the version where it still existed. Git creates a snapshot with every commits, older versions can easily  restored pr copied back, ensuring that progress is never permanently lost.
